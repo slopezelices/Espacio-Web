@@ -1,0 +1,53 @@
+/* Hoja de estilos CSS Propia */
+		/* Etiquetas */
+			h2 {
+				color: darkred;
+			}
+			
+			strong {
+				color: darkBlue;
+			}
+			
+			body {
+				background-color: #76da8e;
+			}
+			
+			li{
+				font-weight:bold;
+				font-size:20px;
+			}
+			
+			
+		/* Id */
+			#html {
+				color: rgb(100,100,200);
+			}
+			
+			#css {
+				color: rgb(100,200,100);
+			}
+			
+			#js {
+				color: rgb(200,100,100);
+			}
+
+			#tabla{
+				background: rgb(0, 0, 248);
+				color: yellow;
+				border: 1px solid black;
+				width: 70%;
+				overflow:auto;
+			}
+			#volver{
+				font-size:30px;
+			}
+			
+		/* Clases */
+			.claseCSS {
+				background-color: #febc00;
+				width: 70%;
+			}
+			
+			.video-stream html5-main-video {
+				object-fit: contain;
+			}
