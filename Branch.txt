@@ -1,1 +1,1 @@
-Branch 1, comflicto
+Branch 1, Para realizar pull Request
